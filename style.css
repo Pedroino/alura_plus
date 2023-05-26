@@ -30,6 +30,7 @@
     padding: 16px;
     text-decoration: none;
     display:block;
+    margin-bottom:16px
     }
     .principal-botao-2 {
     background-color: transparent;
@@ -39,7 +40,7 @@
     padding: 16px;
     text-decoration: none;
     display: block;
-    
+    margin-bottom:16px
     }
 
     .principal-titulo{
@@ -48,9 +49,9 @@
         
     }
 
-    .principal-aviso{
+    .principal-aviso 
         font-size: 14px;
-        color:var(--cinza-secundário) ;  
+        color:var(--cinza-secundário);  
         .principal-imagem{
          margin: 16px 0 32px 0;
         }
