@@ -45,10 +45,12 @@
     .principal-titulo{
         font-size:28px;
         font-weight:700;
-
+        
     }
 
     .principal-aviso{
         font-size: 14px;
         color:var(--cinza-secundário) ;  
-    }
+        .principal-imagem{
+         margin: 16px 0 32px 0;
+        }
