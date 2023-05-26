@@ -51,12 +51,17 @@
         
     }
 
-    .principal-aviso 
-        font-size: 14px;
-        color:var(--cinza-secundário);  
+    .principal-aviso{
+        font-size 12px;
+        color:var(--cinza-secundario);
+       }
+        
+        
         .principal-imagem{
          margin: 16px 0 32px 0;
         }
+        
+        
         .principal-imagem{
           margin: 16x 0 32px 0;
         }
